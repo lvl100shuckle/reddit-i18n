@@ -105,7 +105,7 @@ msgstr "يوجد صور كثيرة , ) لديك فقط %d ("
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "صورة باطلة أو خطأ عام بالصورة"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
@@ -121,7 +121,7 @@ msgstr "ستصلك رساله علي بريدك الالكتروني خلال ل
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "حاول مرة ثانية غداً"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
@@ -248,7 +248,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "كلمة السر غير مقبولة"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -293,7 +293,7 @@ msgstr "هذا الرقم ليس في المدي الصحيح(%(min)d - %(max)d)
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
-msgstr ""
+msgstr "أحد الرموز غير صالح للاستعمال"
 
 #: r2/controllers/errors.py:55
 #, python-format
@@ -320,7 +320,7 @@ msgstr "لايسمح لك بالكتابة هناك"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "يجب تعيين السوبريدت"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
