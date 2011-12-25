@@ -660,7 +660,7 @@ msgstr ""
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
-msgstr ""
+msgstr "هل عمرك يزيد ١٨ عاماً؟"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
@@ -736,7 +736,7 @@ msgstr ""
 
 #: r2/lib/menus.py:47
 msgid "what's new"
-msgstr ""
+msgstr "ما الجديد؟"
 
 #: r2/lib/menus.py:48
 msgid "top scoring"
@@ -792,7 +792,7 @@ msgstr ""
 
 #: r2/lib/menus.py:65
 msgid "best"
-msgstr ""
+msgstr "الأفضل"
 
 #: r2/lib/menus.py:66
 msgid "saved {toolbar}"
@@ -860,7 +860,7 @@ msgstr "خروج"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "اتّصل بنا"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
@@ -1005,7 +1005,7 @@ msgstr ""
 
 #: r2/lib/menus.py:143
 msgid "ads"
-msgstr ""
+msgstr "إعلانات"
 
 #: r2/lib/menus.py:144
 msgid "usage"
